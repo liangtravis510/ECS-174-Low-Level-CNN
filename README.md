@@ -3,6 +3,9 @@
 ``` bash
 pip install torch torchvision scikit-learn pandas matplotlib opencv-python
 ```
+## Usage
+To use the notebook, please download the zip files from [here](http://shuoyang1213.me/WIDERFACE/index.html) and extract them to this directory.
+
 ## Introduction
 Convolutional Neural Networks have long been a powerful tool various image recongnition 
 task such as handwriting recognition and object detection. However, although CNNs are effective for such tasks, they often require specific hardware 
